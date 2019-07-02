@@ -1,5 +1,6 @@
 // Load .env file if it exists.
 require("dotenv").config();
+const path = require('path')
 
 import * as fastify from "fastify";
 import * as fastifyBlipp from "fastify-blipp";
@@ -19,6 +20,9 @@ const server: fastify.FastifyInstance<
 
 server.register(fastifyBlipp);
 server.register(fastifyCors);
+server.register(fastifyStatic, {
+  root: path.join(process.cwd(), 'static')
+});
 server.register(fastifyFileUpload);
 server.register(fastifyMongo, {
   forceClose: true,
