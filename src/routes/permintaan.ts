@@ -1,12 +1,26 @@
 import { ObjectID } from "mongodb";
 import { FastifyInstance } from "fastify";
 import { Permintaan } from "@/models/Permintaan";
+import { kategori } from '../services/drow';
 
 const ROUTE_PREFIX = "/permintaan";
 
 export default async function (server: FastifyInstance, opts, next) {
 
   const collection = server.mongo.db.collection<Permintaan>("permintaan");
+
+  server.get(`/permintaan-kategori`, async (request, reply) => {
+    const dataset = request.query.dataset;
+    const result = await collection.find({
+      dataset
+    });
+    const items = await result.toArray();
+    const converted = items.map(it => ({
+      ...it,
+      kategori: kategori(it),
+    }));
+    reply.send(converted);
+  });
 
   server.get(`${ROUTE_PREFIX}`, async (request, reply) => {
     const dataset = request.query.dataset;

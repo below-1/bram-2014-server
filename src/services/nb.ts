@@ -125,18 +125,9 @@ export function nbWithSumm(summ, x) {
   _nbSumm['1']['_prior'] = lancarPrior
   _nbSumm['0']['_prior'] = macetPrior
 
-  const probInClass = (attrKey, attrValue, classKey) => _summary[attrKey][classKey][`${attrValue}`] * 1.0 / _summary[classKey]
+  const probInClass = (attrKey, attrValue, classKey) => (_summary[attrKey][classKey][`${attrValue}`] + 1.0) / (_summary[classKey] + 1.0)
   const probInLancar = (attrKey, attrValue) => probInClass(attrKey, attrValue, '1')
   const probInMacet = (attrKey, attrValue) => probInClass(attrKey, attrValue, '0')
-
-  // console.log('xFormat=', xkategori)
-  // console.log(_summary)
-  // console.log('probInLancar_jk=', probInLancar('jk', xjk))
-  // console.log('probInLancar_BS=', probInLancar('BS', xBS))
-  // console.log('probInLancar_BP=', probInLancar('BP', xBP))
-  // console.log('probInLancar_JWP=', probInLancar('JWP', xJWP))
-  // console.log('probInLancar_JB=', probInLancar('JB', xJB))
-  // console.log('probInLancar_JB=', _summary['JB']['1'][`1`] * 1.0 / _summary['1'])
 
   const jkLancarProb = probInLancar('jk', xjk)
   const jkMacetProb = probInMacet('jk', xjk)

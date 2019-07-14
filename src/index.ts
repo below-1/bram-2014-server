@@ -31,7 +31,7 @@ server.register(fastifyMongo, {
 server.register(routes, { prefix: "/api/v1" });
 server.setErrorHandler((error, request, reply) => {
   throw error;
-})
+});
 
 async function start() {
   try {
