@@ -30,9 +30,9 @@ server.register(fastifyMongo, {
     url: process.env.MONGO_URL
 });
 server.register(routes_1.default, { prefix: "/api/v1" });
-// server.setErrorHandler((error, request, reply) => {
-//   throw error;
-// });
+server.setErrorHandler((error, request, reply) => {
+    throw error;
+});
 function start() {
     return __awaiter(this, void 0, void 0, function* () {
         try {

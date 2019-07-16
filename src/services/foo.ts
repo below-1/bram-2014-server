@@ -1,4 +1,5 @@
 import { zip, range } from "lodash";
+import { readFileSync, writeFileSync } from "fs";
 
 type Row = number[];
 type Matrix = Row[];
@@ -112,66 +113,11 @@ export class GaussNB {
     }
   }
 
-  predictMatrix(Xs: Matrix) : Row {
-    const uniqueClass = Array.from(this.classProbs.keys());
-
-    let results: Row = [];
-
-    for (let xs of Xs) {
-      if (xs.length != this.d) {
-        throw new Error(`Dimension of input not equal. Got ${xs.length}`);
-      }
-
-      let _maxClass = undefined;
-      let _maxProb = Number.MIN_VALUE;
-      for (let _class of uniqueClass) {
-        let class_variances = this.variances.get(_class);
-        let class_means = this.means.get(_class);
-
-        let total_prod = 1;
-
-        for(let idx_d = 0; idx_d < this.d; idx_d++) {
-          
-          let _var = class_variances[idx_d];
-          let _2var = 2 * _var;
-          let x_d = xs[idx_d];
-          let mean_d = class_means[idx_d];
-          
-          let denom = Math.sqrt(Math.PI * _2var);
-          let to_raised = -1 * (x_d - mean_d ** 2) / _2var;
-          let likelihood = (1 / denom) * Math.exp(to_raised);
-
-          // console.log("====");
-          // console.log(`${idx_d} = `, likelihood);
-          // console.log();
-
-          total_prod *= likelihood;
-        }
-
-        // Multiply by class probs.
-        total_prod *= this.classProbs.get(_class);
-        console.log("total_prod = ", total_prod);
-
-        if (total_prod > _maxProb) {
-          _maxProb = total_prod;
-          _maxClass = _class;
-        }
-      }
-
-      // let result = {
-      //   _class: _maxClass,
-      //   prob: _maxProb
-      // };
-      results.push(_maxClass);
-    }
-
-    return results;
-  }
-
   predictMatrixProba(Xs: Matrix): Matrix {
     let uniqueClass = Array.from(this.classProbs.keys());
     uniqueClass = uniqueClass.sort((a, b) => a - b);
     uniqueClass = uniqueClass.reverse();
+    console.log(uniqueClass);
 
     let results: Matrix = [];
 
@@ -206,10 +152,25 @@ export class GaussNB {
         //   _class: _maxClass,
         //   prob: _maxProb
         // };
-      results.push(classProbs);
+      const expsum = classProbs.map(cprob => Math.exp(cprob));
+      const logsum = expsum.map(exp => Math.exp(exp));
+      const normProb = classProbs.map((cprob, j) => Math.exp(cprob - logsum[j]));
+      results.push(normProb);
     }
 
+    // Normalize log prob
+
     return results;
+  }
+
+  predict_binary(Xs: Matrix): Row {
+    const probs = this.predictMatrixProba(Xs);
+    return probs.map(classProbs => {
+      if (classProbs[0] < classProbs[1]) {
+        return 0;
+      }
+      return 1;
+    });
   }
 
   static normalize(M: Matrix): Matrix {
@@ -254,94 +215,75 @@ export class GaussNB {
     });
     
   }
-}
 
-export class KFold {
-
-  public N: number = undefined;
-
-  constructor (
-    private readonly Xs: Matrix,
-    private readonly Ys: Row,
-    private readonly k: number
-  ) {
-    if (this.Xs.length == 0) {
-      throw new Error(`Length of input is 0`);
-    }
-    if (this.Xs.length != this.Ys.length) {
-      throw new Error(`Length of input and output not equal. input(${this.Xs.length}) != output(${this.Ys.length})`);
-    }
-    this.N = this.Xs.length;
-  }
-
-  run (): Row {
-    let partitions = this.createPartitions();
-    let gauss = new GaussNB();
-    let scores = [];
-    for (let i = 0; i < this.k; i++) {
-      let trains = this.createTrainPart(i, partitions);
-      let tests = partitions.get(i);
-      
-      gauss.fit(trains.Xs, trains.Ys);
-      const partYs = gauss.predictMatrix(tests.Xs);
-
-      const diff = zip(tests.Ys, partYs)
-        .map( ([y, y_]) => Math.abs(y - y_) )
-        .reduce((prev, next) => prev + next, 0);
-      
-      const nPart = 1.0 * partYs.length;
-      
-      const ratioErr = (nPart - diff) / nPart;
-      const score = 1.0 - ratioErr;
-      scores.push(score);
-    }
-    return scores;
-  }
-
-  private createPartitions() {
-    let partitions = new Map<number, KFoldPart>();
-    range(0, this.k).forEach(i => {
-      partitions.set(i, {
-        Xs: [],
-        Ys: []
+  static standardize(M: Matrix, means: Row, variances: Row) {
+    return M.map((xs, i) => {
+      return xs.map((x, j) => {
+        return (x - means[j]) / variances[j];
       });
     });
-
-    let dimension = undefined;
-    for (let i = 0; i < this.N; i++) {
-
-      let x = this.Xs[i];
-      let y = this.Ys[i];
-
-      if (i == 0) {
-        dimension = x.length;
-      }
-
-      if (x.length != dimension) {
-        throw new Error(`Dimension of input differ. dimension(${dimension}) != x(${x.length})`);
-      }
-
-      let partition_index = i % this.k;
-      partitions.get(partition_index).Xs.push(x);
-      partitions.get(partition_index).Ys.push(y);
-    }
-
-    return partitions;
   }
 
-  private createTrainPart(testPart: number, partitions: Map<number, KFoldPart>) {
-    let results: KFoldPart = {
-      Xs: [],
-      Ys: []
-    };
-    for (let i = 0; i < this.k; i++) {
-      if (i == testPart) {
-        continue;
-      }
+  static means(M: Matrix, d: number): Row {
+    const colSum = M.reduce(
+      (_means, xs) => 
+        zip(_means, xs).map(
+          ([_a, _b]) => _a + _b
+        ),
+      Array(d).fill(0)
+    );
 
-      results.Xs = results.Xs.concat(partitions.get(i).Xs);
-      results.Ys = results.Ys.concat(partitions.get(i).Ys);
-    }
-    return results;
+    return range(0, d).map(j => colSum[j] / M.length);
+  }
+
+  static variances(M: Matrix, means: Row, d: number) : Row {
+
+    const diffs = M.map((xs, i) =>
+      xs.map((x, j) => (x - means[j]) ** 2)
+    );
+
+    // console.log(diffs);
+
+    const summed = diffs.reduce(
+      ([ _var, _xs ]) => range(0, d).map(j => _var[j] + _xs[j]),
+      Array(d).fill(0)
+    );
+
+
+    return summed.map(s => s / M.length);
   }
 }
+
+function main() {
+  console.log(process.cwd());
+  const filePath = process.cwd() + "/src/services/data_20.json";
+  const buff = readFileSync(filePath);
+  let data = JSON.parse(buff.toString());
+
+  const keys = ["jk", "BS", "BP", "JB", "JWP"];
+  let Xs: Matrix = data.map(row => {
+    return keys.map(k => row[k]);
+  });
+  let Ys: Row = data.map(row => {
+    return row.keterangan;
+  });
+
+  let d = 5;
+  let Xs_norm = GaussNB.normalize(Xs);
+
+  let gauss = new GaussNB();
+  gauss.fit(Xs_norm, Ys);
+
+  // console.log("variances[0]");
+  // console.log(gauss.variances.get(0));
+  // console.log();
+  // console.log("variances[1]");
+  // console.log(gauss.variances.get(1));
+
+  console.log();
+  console.log(
+    gauss.predict_binary(Xs_norm.slice(0, 10))
+  );
+}
+
+main();

@@ -1,0 +1,6920 @@
+[{
+  "_id": "5d1b79acb9c3e231ba6c1b7c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 890000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b7d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2198000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b7e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2071000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b7f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4280000,
+  "BP": 25000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 3,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b80",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2990000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b81",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1013000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b82",
+  "nama": "A",
+  "jk": 1,
+  "BS": 10220000,
+  "BP": 25000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 3,
+    "BP": 3,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b83",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2775000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b84",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2230000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 30,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b85",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2590000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b86",
+  "nama": "A",
+  "jk": 0,
+  "BS": 10500000,
+  "BP": 25000000,
+  "JB": 3,
+  "JWP": 16,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 3,
+    "BP": 3,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b87",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b88",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4500000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b89",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5325000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5357000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5017000,
+  "BP": 11000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 750000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 830000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8e",
+  "nama": "A",
+  "jk": 1,
+  "BS": 13272000,
+  "BP": 25000000,
+  "JB": 3,
+  "JWP": 30,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 4,
+    "BP": 3,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b8f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2540000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b90",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5030000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b91",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3855080,
+  "BP": 7000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b92",
+  "nama": "A",
+  "jk": 0,
+  "BS": 10095000,
+  "BP": 16000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 3,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b93",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4470000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b94",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6900700,
+  "BP": 20000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b95",
+  "nama": "A",
+  "jk": 0,
+  "BS": 790000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b96",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5285000,
+  "BP": 12000000,
+  "JB": 3,
+  "JWP": 15,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b97",
+  "nama": "A",
+  "jk": 0,
+  "BS": 780000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b98",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2350000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b99",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4350000,
+  "BP": 11000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4650000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 850000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6515000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4875000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4647000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1b9f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3919000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1505000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1372000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 988000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba3",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3310000,
+  "BP": 7500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba4",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 8000000,
+  "JB": 3,
+  "JWP": 20,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2650000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 20,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3826000,
+  "BP": 8000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6600000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba8",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1250500,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ba9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1360000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1baa",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2634000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bab",
+  "nama": "A",
+  "jk": 0,
+  "BS": 807500,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bac",
+  "nama": "A",
+  "jk": 0,
+  "BS": 690000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bad",
+  "nama": "A",
+  "jk": 0,
+  "BS": 7887000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bae",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2393000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1baf",
+  "nama": "A",
+  "jk": 0,
+  "BS": 7115000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1920000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 19078000,
+  "BP": 40000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 5,
+    "BP": 4,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6640000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4531010,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1710000,
+  "BP": 10000000,
+  "JB": 1,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4890000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb7",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1878598,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1360000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bb9",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2450000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bba",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bbb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2220000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bbc",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2595000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bbd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 747500,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bbe",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2450000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bbf",
+  "nama": "A",
+  "jk": 0,
+  "BS": 7887000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4077135,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc1",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1087560,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc2",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3153000,
+  "BP": 7000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc3",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5035000,
+  "BP": 11000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc4",
+  "nama": "A",
+  "jk": 1,
+  "BS": 14927000,
+  "BP": 20000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 4,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2175000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1412250,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc7",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1350000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 3,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc8",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3965000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bc9",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1905000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 18,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bca",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6935000,
+  "BP": 15000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 2,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bcb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1825000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bcc",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3105000,
+  "BP": 8000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bcd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4215000,
+  "BP": 7500000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bce",
+  "nama": "A",
+  "jk": 1,
+  "BS": 16003000,
+  "BP": 45000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 4,
+    "BP": 4,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bcf",
+  "nama": "A",
+  "jk": 1,
+  "BS": 763738,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5925000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1485000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd2",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1203924,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 765000,
+  "BP": 1700000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd4",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3117820,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5724500,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 6470000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 15198000,
+  "BP": 35000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 4,
+    "BP": 3,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd8",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2430000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bd9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 350000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bda",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1678000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bdb",
+  "nama": "A",
+  "jk": 1,
+  "BS": 9471000,
+  "BP": 21000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 3,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bdc",
+  "nama": "A",
+  "jk": 1,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bdd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 340000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bde",
+  "nama": "A",
+  "jk": 0,
+  "BS": 410000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bdf",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 360000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4690000,
+  "BP": 9000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 830000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be7",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1298000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be8",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2045000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1be9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bea",
+  "nama": "A",
+  "jk": 0,
+  "BS": 405000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1beb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 475000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bec",
+  "nama": "A",
+  "jk": 0,
+  "BS": 385000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bed",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3815000,
+  "BP": 7000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bee",
+  "nama": "A",
+  "jk": 0,
+  "BS": 10095000,
+  "BP": 16000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 3,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bef",
+  "nama": "A",
+  "jk": 0,
+  "BS": 355000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 405000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 505000,
+  "BP": 9735000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 4950000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 4950000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 365000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 380000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 345000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bf9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 8700000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bfa",
+  "nama": "A",
+  "jk": 0,
+  "BS": 411000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bfb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 490000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bfc",
+  "nama": "A",
+  "jk": 0,
+  "BS": 385000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bfd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4470000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bfe",
+  "nama": "A",
+  "jk": 0,
+  "BS": 739000,
+  "BP": 1600000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1bff",
+  "nama": "A",
+  "jk": 1,
+  "BS": 739000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c00",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3678994,
+  "BP": 7500000,
+  "JB": 3,
+  "JWP": 26,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c01",
+  "nama": "A",
+  "jk": 0,
+  "BS": 535000,
+  "BP": 2700000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c02",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5285000,
+  "BP": 12000000,
+  "JB": 3,
+  "JWP": 15,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c03",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1073555,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c04",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2600000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c05",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2431675,
+  "BP": 11000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c06",
+  "nama": "A",
+  "jk": 1,
+  "BS": 515000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c07",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4245000,
+  "BP": 15450000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 2,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c08",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4531010,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c09",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 372725,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3440000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 36,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 3,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c0f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 7577250,
+  "BP": 30000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 3,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c10",
+  "nama": "A",
+  "jk": 1,
+  "BS": 8245000,
+  "BP": 10000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 3,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c11",
+  "nama": "A",
+  "jk": 0,
+  "BS": 365000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c12",
+  "nama": "A",
+  "jk": 1,
+  "BS": 345000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c13",
+  "nama": "A",
+  "jk": 1,
+  "BS": 557199,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c14",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c15",
+  "nama": "A",
+  "jk": 0,
+  "BS": 385000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c16",
+  "nama": "A",
+  "jk": 0,
+  "BS": 585000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c17",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1782725,
+  "BP": 10000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c18",
+  "nama": "A",
+  "jk": 0,
+  "BS": 846065,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c19",
+  "nama": "A",
+  "jk": 0,
+  "BS": 395000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 345000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2220000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 415000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 528655,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 355000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c1f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 355000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c20",
+  "nama": "A",
+  "jk": 1,
+  "BS": 707500,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c21",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1817910,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c22",
+  "nama": "A",
+  "jk": 1,
+  "BS": 383000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c23",
+  "nama": "A",
+  "jk": 1,
+  "BS": 411000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c24",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1027560,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c25",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2305000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c26",
+  "nama": "A",
+  "jk": 0,
+  "BS": 305000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c27",
+  "nama": "A",
+  "jk": 0,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c28",
+  "nama": "A",
+  "jk": 1,
+  "BS": 335000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c29",
+  "nama": "A",
+  "jk": 1,
+  "BS": 325000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 345000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2436000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 5981955,
+  "BP": 11000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 355000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 365000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c2f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2135000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c30",
+  "nama": "A",
+  "jk": 1,
+  "BS": 397000,
+  "BP": 2000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c31",
+  "nama": "A",
+  "jk": 1,
+  "BS": 453000,
+  "BP": 2000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c32",
+  "nama": "A",
+  "jk": 0,
+  "BS": 385000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c33",
+  "nama": "A",
+  "jk": 0,
+  "BS": 365000,
+  "BP": 6000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c34",
+  "nama": "A",
+  "jk": 1,
+  "BS": 335000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c35",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1312250,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c36",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1905000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 18,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c37",
+  "nama": "A",
+  "jk": 0,
+  "BS": 485000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c38",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2750000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c39",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3250000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3e",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c3f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c40",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c41",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c42",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c43",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2500000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c44",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c45",
+  "nama": "A",
+  "jk": 0,
+  "BS": 750000,
+  "BP": 1250000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c46",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3750000,
+  "BP": 3750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c47",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c48",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c49",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3750000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1500000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 2750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4e",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c4f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c50",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c51",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1500000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c52",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c53",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c54",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c55",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1350000,
+  "BP": 1250000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c56",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c57",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1500000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c58",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c59",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1750000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5500000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2250000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c5f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c60",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 2750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c61",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c62",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c63",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c64",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c65",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c66",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4500000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c67",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c68",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2750000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c69",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6e",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c6f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 5000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c70",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2300000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c71",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c72",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c73",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2600000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c74",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4250000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c75",
+  "nama": "A",
+  "jk": 0,
+  "BS": 5500000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c76",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1300000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c77",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c78",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3800000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c79",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 1700000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1100000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1350000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 500000,
+  "BP": 7500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 500000,
+  "BP": 7500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c7f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4750000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c80",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c81",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 600000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c82",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c83",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c84",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c85",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c86",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1750000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c87",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1300000,
+  "BP": 1750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c88",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c89",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8b",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8c",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8d",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4000000,
+  "BP": 5500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 5500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c8f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2250000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c90",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c91",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2250000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c92",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c93",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c94",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4400000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c95",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 3400000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c96",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4500000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c97",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c98",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c99",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2300000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9a",
+  "nama": "A",
+  "jk": 0,
+  "BS": 5500000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9e",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 2250000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1c9f",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca1",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 2250000,
+  "JB": 1,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ca9",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3250000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1caa",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4750000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cab",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3750000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cac",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cad",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1800000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cae",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1caf",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 10250000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 10250000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 10250000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1750000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 1600000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4500000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb6",
+  "nama": "A",
+  "jk": 1,
+  "BS": 750000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb7",
+  "nama": "A",
+  "jk": 1,
+  "BS": 5500000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb8",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 4500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cb9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1800000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cba",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cbb",
+  "nama": "A",
+  "jk": 1,
+  "BS": 750000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cbc",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cbd",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cbe",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cbf",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2300000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 3250000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc3",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc4",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3500000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3250000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cc9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cca",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3750000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ccb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ccc",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 4500000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ccd",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cce",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ccf",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd0",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1100000,
+  "BP": 1200000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 1200000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 1250000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd4",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3750000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 18,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1750000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd6",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1750000,
+  "BP": 1200000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1750000,
+  "BP": 1700000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cd9",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cda",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cdb",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cdc",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1250000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cdd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1250000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cde",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1250000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cdf",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1750000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1750000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 1750000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1800000,
+  "BP": 1750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce5",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ce9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 1750000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cea",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ceb",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cec",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1ced",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3250000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cee",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cef",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1800000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf0",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1100000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf1",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1300000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf2",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf3",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf4",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf5",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf6",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf7",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2600000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf8",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2600000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cf9",
+  "nama": "A",
+  "jk": 0,
+  "BS": 500000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cfa",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1800000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cfb",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4500000,
+  "BP": 3000000,
+  "JB": 3,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cfc",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cfd",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2000000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cfe",
+  "nama": "A",
+  "jk": 1,
+  "BS": 2250000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1cff",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d00",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 1000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d01",
+  "nama": "A",
+  "jk": 0,
+  "BS": 4000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d02",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1350000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d03",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3750000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d04",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 10,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d05",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d06",
+  "nama": "A",
+  "jk": 1,
+  "BS": 4750000,
+  "BP": 5000000,
+  "JB": 3,
+  "JWP": 24,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 2,
+    "BP": 1,
+    "JWP": 2,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d07",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d08",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3500000,
+  "BP": 2500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d09",
+  "nama": "A",
+  "jk": 0,
+  "BS": 3000000,
+  "BP": 3000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0a",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1500000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0b",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1500000,
+  "BP": 5500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0c",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 3500000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0d",
+  "nama": "A",
+  "jk": 0,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0e",
+  "nama": "A",
+  "jk": 1,
+  "BS": 1000000,
+  "BP": 1500000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d0f",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2250000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d10",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 3750000,
+  "JB": 3,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d11",
+  "nama": "A",
+  "jk": 1,
+  "BS": 3000000,
+  "BP": 4000000,
+  "JB": 3,
+  "JWP": 6,
+  "keterangan": 1,
+  "dataset": "training",
+  "kategori": {
+    "jk": 1,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 3
+  }
+}, {
+  "_id": "5d1b79acb9c3e231ba6c1d12",
+  "nama": "A",
+  "jk": 0,
+  "BS": 2300000,
+  "BP": 2000000,
+  "JB": 1,
+  "JWP": 12,
+  "keterangan": 0,
+  "dataset": "training",
+  "kategori": {
+    "jk": 0,
+    "BS": 1,
+    "BP": 1,
+    "JWP": 1,
+    "JB": 1
+  }
+}]

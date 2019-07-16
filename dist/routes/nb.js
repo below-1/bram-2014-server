@@ -43,6 +43,27 @@ function default_1(server, opts, next) {
                 means: gauss.means,
                 variances: gauss.variances
             };
+            console.log("means=", gauss.means);
+            console.log("variances=", gauss.variances);
+            console.log("class probabilities=", gauss.classProbs);
+            reply.send(result);
+        }));
+        server.get("/kfold", (request, reply) => __awaiter(this, void 0, void 0, function* () {
+            let findResult = yield collection.find({
+                dataset: "training"
+            });
+            let items = yield findResult.toArray();
+            let Xs = items.map(it => ([
+                it.jk,
+                it.BS,
+                it.BP,
+                it.JB,
+                it.JWP
+            ]));
+            let Ys = items.map(it => it.keterangan);
+            let Xs_norm = GaussNB_1.GaussNB.normalize(Xs);
+            let kfold = new GaussNB_1.KFold(Xs_norm, Ys, 10);
+            let result = kfold.run();
             reply.send(result);
         }));
     });
