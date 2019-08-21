@@ -20,6 +20,7 @@ export function testing (training, testing) {
     fp: 0,
     fn: 0
   }
+
   testing.forEach(x => {
     const actual = x.keterangan
     const nbResult = nbWithSumm(summ, x)
@@ -27,22 +28,43 @@ export function testing (training, testing) {
 
     // TP
     if (actual === 1 && predicted === 1) {
-      testingResult.tp += 1
+      testingResult.tp += 1;
     // TN
     } else if (actual === 0 && predicted === 0) {
-      testingResult.tn += 1
+      testingResult.tn += 1;
     // FP
     } else if (actual === 0 && predicted === 1) {
-      testingResult.fp += 1
+      testingResult.fp += 1;
     // FN
     } else if (actual === 1 && predicted === 0) {
-      testingResult.fn += 1
+      testingResult.fn += 1;
     } else {
       throw new Error("What the fuck happen!");
     }
-  })
-  
-  return testingResult
+  });
+
+  return {
+    accuracy: accuracy(testingResult),
+    precision: precision(testingResult),
+    recall: recall(testingResult),
+    miscRate: miscRate(testingResult),
+    ...testingResult
+  };
+}
+
+export async function testingAndChange(training, testing, changeFunc) {
+  const summ = summary(training);
+
+  for(let x of testing) {
+    const actual = x.keterangan
+    const nbResult = nbWithSumm(summ, x)
+    const predicted = nbResult.result
+    
+    // Just remove the false positive
+    if (actual === 0 && predicted === 1) {
+      await changeFunc(x._id, 1);
+    }
+  }
 }
 
 export const accuracy = testR => (testR.tp + testR.tn) * 100.0 / (testR.tp + testR.tn + testR.fp + testR.fn)

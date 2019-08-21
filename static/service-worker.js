@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.7611a404c0ae7cb788dc1f948bfdddce.js"
+  "/precache-manifest.05e93955e11568824862b330e47fa2f7.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "bram-koperasi"});
