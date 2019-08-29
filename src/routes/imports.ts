@@ -4,6 +4,9 @@ import { FastifyInstance } from "fastify";
 import { Permintaan } from "@/models/Permintaan";
 import { fromCsvRow } from "../services/converter";
 
+import { readFile } from 'fs';
+const parse = require('fast-json-parse');
+
 const ROUTE_PREFIX = "/import";
 
 export default async function (server: FastifyInstance, opts, next) {
@@ -28,6 +31,25 @@ export default async function (server: FastifyInstance, opts, next) {
     }));
     await collection.insertMany(itemsWithDataset);
     reply.send(items.length);
+  });
+
+  server.post(`/import-static`, async (request, reply) => {
+    var parsed: any[] = undefined;
+
+    function storeData() {
+      collection.insertMany(parsed);
+    }
+
+    readFile("./data.json", async (err, data) => {
+      if (err) {
+        console.log(err);
+        throw err;
+      }
+      parsed = parse(data).value;
+      await collection.insertMany(parsed);
+      reply.send(`OK. ${parsed.length} data inserted`);
+    });
+
   });
 
 }
